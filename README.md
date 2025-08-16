@@ -1,6 +1,6 @@
-# ReadMore
-
-## Introduction
+<p align="center">
+<img src="https://www.davelee.de/common/assets/img/portfolio/readmore.webp" alt="ReadMore" width="300" height="300">
+</p>
 
 ReadMore is a single app to view websites which do not have their own app without having to use bookmarks or other solutions.
 
